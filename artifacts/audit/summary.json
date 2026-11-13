@@ -1,0 +1,57 @@
+{
+  "provenance": {
+    "reviewer": "Codex (AI assistant)",
+    "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+    "human_confirmation": "confirmed",
+    "confirmed_by": "Võ Huy Hoàng",
+    "confirmation_date": "2026-11-13",
+    "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+  },
+  "strategies": [
+    {
+      "strategy": "A",
+      "coherence_mean": 1.0,
+      "coherence_n": 10,
+      "metadata_correct_n": 15,
+      "metadata_total": 15,
+      "filter_compliance_n": 2,
+      "filter_total": 2,
+      "grounding_counts": {
+        "0": 0,
+        "1": 2,
+        "2": 3
+      },
+      "grounding_mean": 1.6
+    },
+    {
+      "strategy": "B",
+      "coherence_mean": 1.4,
+      "coherence_n": 10,
+      "metadata_correct_n": 15,
+      "metadata_total": 15,
+      "filter_compliance_n": 1,
+      "filter_total": 2,
+      "grounding_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "grounding_mean": 2.0
+    },
+    {
+      "strategy": "C",
+      "coherence_mean": 1.4,
+      "coherence_n": 10,
+      "metadata_correct_n": 15,
+      "metadata_total": 15,
+      "filter_compliance_n": 2,
+      "filter_total": 2,
+      "grounding_counts": {
+        "0": 0,
+        "1": 0,
+        "2": 5
+      },
+      "grounding_mean": 2.0
+    }
+  ]
+}

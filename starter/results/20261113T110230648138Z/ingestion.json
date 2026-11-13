@@ -1,0 +1,23 @@
+[
+  {
+    "strategy": "A",
+    "ingest_and_reload_seconds": 18.646112499998708,
+    "count_before_reload": 270,
+    "count_after_reload": 270,
+    "embeddings_reused_from_B": false
+  },
+  {
+    "strategy": "B",
+    "ingest_and_reload_seconds": 10.874308300000848,
+    "count_before_reload": 162,
+    "count_after_reload": 162,
+    "embeddings_reused_from_B": false
+  },
+  {
+    "strategy": "C",
+    "ingest_and_reload_seconds": 1.0256853000028059,
+    "count_before_reload": 162,
+    "count_after_reload": 162,
+    "embeddings_reused_from_B": true
+  }
+]

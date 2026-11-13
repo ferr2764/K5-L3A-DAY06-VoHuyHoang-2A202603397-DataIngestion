@@ -1,0 +1,19 @@
+{
+  "started_at_utc": "20261113T110051255944Z",
+  "split": "dev",
+  "model": "openai/text-embedding-3-small",
+  "dimensions": 1536,
+  "metric": "cosine",
+  "search": "exact",
+  "benchmark_sha256": "da67ad60be00b5dfa14002dbba908725b14fba4c9acf141921f273a38b946de2",
+  "versions": {
+    "pypdf": "6.21.4",
+    "openai": "3.50.0",
+    "psycopg": "3.3.8",
+    "python-dotenv": "1.2.4"
+  },
+  "selection_rule": "dev Evidence Hit@3, then dev Hit@1, then resources",
+  "cost_usd": null,
+  "cost_note": "Obtain actual charge from OpenRouter usage; not assumed zero.",
+  "test_note": "Run test only after freezing configuration; no automatic tuning."
+}

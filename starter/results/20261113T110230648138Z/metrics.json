@@ -1,0 +1,29 @@
+[
+  {
+    "strategy": "A",
+    "split": "dev",
+    "total": 15,
+    "hit_at_1_n": 3,
+    "hit_at_3_n": 6,
+    "hit_at_1": 0.2,
+    "hit_at_3": 0.4
+  },
+  {
+    "strategy": "B",
+    "split": "dev",
+    "total": 15,
+    "hit_at_1_n": 8,
+    "hit_at_3_n": 12,
+    "hit_at_1": 0.5333333333333333,
+    "hit_at_3": 0.8
+  },
+  {
+    "strategy": "C",
+    "split": "dev",
+    "total": 15,
+    "hit_at_1_n": 8,
+    "hit_at_3_n": 12,
+    "hit_at_1": 0.5333333333333333,
+    "hit_at_3": 0.8
+  }
+]

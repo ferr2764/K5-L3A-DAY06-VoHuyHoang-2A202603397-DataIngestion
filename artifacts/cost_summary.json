@@ -1,0 +1,9 @@
+{
+  "provider": "OpenRouter",
+  "currency": "USD",
+  "total_cost": 0.0018,
+  "source": "Total supplied by Vo Huy Hoang in conversation on 2026-11-13",
+  "scope": "Total for this coursework; no per-strategy, per-run or token breakdown provided.",
+  "independently_verified_against_billing": false,
+  "note": "Historical run_config cost_usd=null reflects data unavailable at execution time. This later declaration records the student-provided total without rewriting run history."
+}

@@ -1,4 +1,4 @@
-strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes,test_reviewed_hit1,test_reviewed_hit3
+A,fixed,500,50,document_id;source;page;section;language;year,none,OpenRouter; EMBEDDING_MODEL from .env,baseline fixed windows,3/15,6/15,1/5,1/5,Dev 20261113T110230648138Z; test 20261113T114712057039Z; literal evidence metrics; AI-assisted audit confirmed by Vo Huy Hoang on 2026-11-13; total OpenRouter cost USD 0.0018 reported by student; not allocated per strategy/split,2/5,2/5
+B,paragraph,1000,0,document_id;source;page;section;language;year,none,OpenRouter; EMBEDDING_MODEL from .env,preserve context versus A,8/15,12/15,4/5,4/5,Dev 20261113T110230648138Z; test 20261113T114712057039Z; literal evidence metrics; AI-assisted audit confirmed by Vo Huy Hoang on 2026-11-13; total OpenRouter cost USD 0.0018 reported by student; not allocated per strategy/split,4/5,5/5
+C,paragraph,1000,0,document_id;source;page;section;language;year,supplied section only,OpenRouter; EMBEDDING_MODEL from .env,reduce out-of-scope results versus B,8/15,12/15,4/5,4/5,Dev 20261113T110230648138Z; test 20261113T114712057039Z; literal evidence metrics; AI-assisted audit confirmed by Vo Huy Hoang on 2026-11-13; total OpenRouter cost USD 0.0018 reported by student; not allocated per strategy/split,4/5,5/5

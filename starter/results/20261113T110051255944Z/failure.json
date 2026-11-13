@@ -1,0 +1,6 @@
+{
+  "status": "failed",
+  "error_type": "RuntimeError",
+  "elapsed_seconds": 16.75564779999695,
+  "note": "No fallback. Check database, configuration, provider and corpus."
+}

@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Dịch vụ miễn phí phiên bản cơ bản và cho nâng cấp trả phí để thêm tính năng thuộc mô hình nào?",
+    "expected_answer": "Freemium.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 68,
+    "printed_page": 58,
+    "section": "2.3",
+    "evidence_quote": "The freemium model provides a free basic service, with the option to upgrade to a premium version for enhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "fca4e04107b5161ed8daea3d200e00dcf42df8fe733fb56b98395676b0bf0a5a",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "del is to develop products and/or\nservices, such as entertainment and transportation, that customers need routinely and are willing to make\nrecurring payments for to have continued access to the products and/or services. Amazon Prime and YouTube\nare subscription models.\nThe freemium model provides a free basic service, with the option to upgrade to a premium version for\nenhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.\n58 2 • Data Management an",
+        "metadata": {
+          "end": 3650,
+          "part": 1,
+          "year": 2025,
+          "start": 3150,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.33036218039721943
+      },
+      {
+        "chunk_id": "d05274fda7d53be4facc5e856416c3199e1bbf2e2f7b6afc96bea9e112c48229",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "Integrating IT should involve designing services that showcase the value of the basic offering to entice users to\nupgrade to premium features, such as a seamless onboarding process and data-driven user engagement\ntactics. Companies should also optimize the platform to manage both free and paying users effectively.\nEffective data analytics and user segmentation are necessary to identify potential premium users.\nCollaboration with marketing and sales teams can be used to design targeted conversion",
+        "metadata": {
+          "end": 500,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.29114246816789857
+      },
+      {
+        "chunk_id": "395d981bc532a846db906942f7086e7a45cfe834a6b19ce76857bfcda6ec5116",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "nd preferences.\nThe advertising model generates revenue through targeted ads purchased by other businesses. Ads are\npresented to customers when they view content, and since the content is supported by advertising revenue\npaid by other businesses, customers view the content free of charge. This is the model for Facebook and\nPeopleFun. IT strategy for this approach includes developing content that includes space for advertisements\nthat can be presented to users as they browse content, and selling ",
+        "metadata": {
+          "end": 2750,
+          "part": 0,
+          "year": 2025,
+          "start": 2250,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2662895118318178
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "A",
+    "applied_filter": null,
+    "retrieval_seconds": 0.05106269999669166
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Dịch vụ miễn phí phiên bản cơ bản và cho nâng cấp trả phí để thêm tính năng thuộc mô hình nào?",
+    "expected_answer": "Freemium.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 68,
+    "printed_page": 58,
+    "section": "2.3",
+    "evidence_quote": "The freemium model provides a free basic service, with the option to upgrade to a premium version for enhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "822190af9e803e0694b74bba57378cdff2f7f9f77dd12c660f7ad416dc97a442",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "The subscription model provides continuous value through recurring subscriptions that provide customers\nwith ongoing premium content or services. The IT strategy for this model is to develop products and/or\nservices, such as entertainment and transportation, that customers need routinely and are willing to make\nrecurring payments for to have continued access to the products and/or services. Amazon Prime and YouTube\nare subscription models.\nThe freemium model provides a free basic service, with the option to upgrade to a premium version for\nenhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.\n58 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 3723,
+          "part": 1,
+          "year": 2025,
+          "start": 2977,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.31800567064670604
+      },
+      {
+        "chunk_id": "bf9a54938c247718430c6beaf0cdfadb03e423cb0bab25bd5c3fd8720597e939",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "Integrating IT should involve designing services that showcase the value of the basic offering to entice users to\nupgrade to premium features, such as a seamless onboarding process and data-driven user engagement\ntactics. Companies should also optimize the platform to manage both free and paying users effectively.\nEffective data analytics and user segmentation are necessary to identify potential premium users.\nCollaboration with marketing and sales teams can be used to design targeted conversion strategies, monitor\nuser behavior to optimize premium feature adoption, and continuously improve the platform to increase\nconversion rates and drive revenue growth.\n",
+        "metadata": {
+          "end": 666,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2891978730661591
+      },
+      {
+        "chunk_id": "a205c17755ad789f92cc8291b24fb07896c3dff14fe678580ca69a198eb2b3cb",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "The advertising model generates revenue through targeted ads purchased by other businesses. Ads are\npresented to customers when they view content, and since the content is supported by advertising revenue\npaid by other businesses, customers view the content free of charge. This is the model for Facebook and\nPeopleFun. IT strategy for this approach includes developing content that includes space for advertisements\nthat can be presented to users as they browse content, and selling this space to other businesses to run their\nads for an allotted time, based on the fees paid for the ads. Ads should be programmed and presented to\nattract users’ attention while also providing minimal disruption to users’ interaction with content.\n",
+        "metadata": {
+          "end": 2999,
+          "part": 0,
+          "year": 2025,
+          "start": 2266,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.25069716955114396
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "B",
+    "applied_filter": null,
+    "retrieval_seconds": 0.04189749999932246
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Dịch vụ miễn phí phiên bản cơ bản và cho nâng cấp trả phí để thêm tính năng thuộc mô hình nào?",
+    "expected_answer": "Freemium.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 68,
+    "printed_page": 58,
+    "section": "2.3",
+    "evidence_quote": "The freemium model provides a free basic service, with the option to upgrade to a premium version for enhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "822190af9e803e0694b74bba57378cdff2f7f9f77dd12c660f7ad416dc97a442",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "The subscription model provides continuous value through recurring subscriptions that provide customers\nwith ongoing premium content or services. The IT strategy for this model is to develop products and/or\nservices, such as entertainment and transportation, that customers need routinely and are willing to make\nrecurring payments for to have continued access to the products and/or services. Amazon Prime and YouTube\nare subscription models.\nThe freemium model provides a free basic service, with the option to upgrade to a premium version for\nenhanced features or benefits, such as with the services offered by LinkedIn, DropBox, and MailChimp.\n58 2 • Data Management and Information Systems Business Strategies\nAccess for free at openstax.org",
+        "metadata": {
+          "end": 3723,
+          "part": 1,
+          "year": 2025,
+          "start": 2977,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.31800567064670604
+      },
+      {
+        "chunk_id": "bf9a54938c247718430c6beaf0cdfadb03e423cb0bab25bd5c3fd8720597e939",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "Integrating IT should involve designing services that showcase the value of the basic offering to entice users to\nupgrade to premium features, such as a seamless onboarding process and data-driven user engagement\ntactics. Companies should also optimize the platform to manage both free and paying users effectively.\nEffective data analytics and user segmentation are necessary to identify potential premium users.\nCollaboration with marketing and sales teams can be used to design targeted conversion strategies, monitor\nuser behavior to optimize premium feature adoption, and continuously improve the platform to increase\nconversion rates and drive revenue growth.\n",
+        "metadata": {
+          "end": 666,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.2891978730661591
+      },
+      {
+        "chunk_id": "a205c17755ad789f92cc8291b24fb07896c3dff14fe678580ca69a198eb2b3cb",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "The advertising model generates revenue through targeted ads purchased by other businesses. Ads are\npresented to customers when they view content, and since the content is supported by advertising revenue\npaid by other businesses, customers view the content free of charge. This is the model for Facebook and\nPeopleFun. IT strategy for this approach includes developing content that includes space for advertisements\nthat can be presented to users as they browse content, and selling this space to other businesses to run their\nads for an allotted time, based on the fees paid for the ads. Ads should be programmed and presented to\nattract users’ attention while also providing minimal disruption to users’ interaction with content.\n",
+        "metadata": {
+          "end": 2999,
+          "part": 0,
+          "year": 2025,
+          "start": 2266,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.25069716955114396
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "C",
+    "applied_filter": null,
+    "retrieval_seconds": 0.04932389999885345
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trong mục 2.3, affiliate model kiếm tiền thế nào và IT cần theo dõi điều gì để ghi nhận doanh số đúng?",
+    "expected_answer": "Hoa hồng qua quảng bá và bán sản phẩm/dịch vụ của công ty khác; theo dõi và báo cáo phải quy doanh số chính xác cho affiliate giới thiệu.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 69,
+    "printed_page": 59,
+    "section": "2.3",
+    "evidence_quote": "In an affiliate model, one company earns commissions by promoting and selling other companies’ products or services through websites or social media channels. They help drive traffic and sales, receiving a percentage of the revenue from the companies they promote. Amazon Associates, ClickBank, and Commission Junction use this model. These organizations should work with IT to build effective tracking and reporting systems to accurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for conversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform.",
+    "alternative_gold": [],
+    "filter": {
+      "section": "2.3"
+    },
+    "filter_origin": "Phạm vi mục 2.3 được nêu trong câu hỏi trước truy xuất.",
+    "hits": [
+      {
+        "chunk_id": "d043f38a30077c595c32bd1984751a0fbae19c5be87bb6664cbf47483fca4180",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "om the companies they promote. Amazon Associates, ClickBank, and Commission Junction\nuse this model. These organizations should work with IT to build effective tracking and reporting systems to\naccurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for\nconversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform. Providing\nreal-time data and performance insights to affiliates enables them to optimize",
+        "metadata": {
+          "end": 1400,
+          "part": 0,
+          "year": 2025,
+          "start": 900,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.5104816325721752
+      },
+      {
+        "chunk_id": "995232a0f774668d38f37f50c60e52cec1166ab0fcae89cfb0eecd4a332e5f95",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "ce insights to affiliates enables them to optimize their promotional strategies.\nAmazon, eBay, and Airbnb demonstrate the marketplace model, which brings buyers and sellers together on\na single platform, with the enterprise acting as an intermediary that facilitates transactions between parties.\nThis approach fosters a diverse range of goods and services offered by different sellers, making it a convenient\nhub for buyers. Effective IT strategy for this digital business model includes providing e",
+        "metadata": {
+          "end": 1850,
+          "part": 0,
+          "year": 2025,
+          "start": 1350,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4380180424837896
+      },
+      {
+        "chunk_id": "3134a92d4065546485d902a8ac7638d6082d80e5f8ddedde6bb1b9db72a12107",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "es teams can be used to design targeted conversion strategies, monitor\nuser behavior to optimize premium feature adoption, and continuously improve the platform to increase\nconversion rates and drive revenue growth.\nIn an affiliate model, one company earns commissions by promoting and selling other companies’ products\nor services through websites or social media channels. They help drive traffic and sales, receiving a percentage\nof the revenue from the companies they promote. Amazon Associates, ",
+        "metadata": {
+          "end": 950,
+          "part": 0,
+          "year": 2025,
+          "start": 450,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4050197964652398
+      }
+    ],
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "A",
+    "applied_filter": null,
+    "retrieval_seconds": 0.029418999998597428
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trong mục 2.3, affiliate model kiếm tiền thế nào và IT cần theo dõi điều gì để ghi nhận doanh số đúng?",
+    "expected_answer": "Hoa hồng qua quảng bá và bán sản phẩm/dịch vụ của công ty khác; theo dõi và báo cáo phải quy doanh số chính xác cho affiliate giới thiệu.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 69,
+    "printed_page": 59,
+    "section": "2.3",
+    "evidence_quote": "In an affiliate model, one company earns commissions by promoting and selling other companies’ products or services through websites or social media channels. They help drive traffic and sales, receiving a percentage of the revenue from the companies they promote. Amazon Associates, ClickBank, and Commission Junction use this model. These organizations should work with IT to build effective tracking and reporting systems to accurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for conversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform.",
+    "alternative_gold": [],
+    "filter": {
+      "section": "2.3"
+    },
+    "filter_origin": "Phạm vi mục 2.3 được nêu trong câu hỏi trước truy xuất.",
+    "hits": [
+      {
+        "chunk_id": "0693687b3a276c576c1e26a1b43c312159929fca528afd182d2a27d49c61d86f",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "In an affiliate model, one company earns commissions by promoting and selling other companies’ products\nor services through websites or social media channels. They help drive traffic and sales, receiving a percentage\nof the revenue from the companies they promote. Amazon Associates, ClickBank, and Commission Junction\nuse this model. These organizations should work with IT to build effective tracking and reporting systems to\naccurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for\nconversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform. Providing\nreal-time data and performance insights to affiliates enables them to optimize their promotional strategies.\nAmazon, eBay, and Airbnb demonstrate the marketplace model, which brings buyers and sellers together on\na single platform, with the enterprise acting as an intermediary that facilitates transactions between parties.\n",
+        "metadata": {
+          "end": 1647,
+          "part": 0,
+          "year": 2025,
+          "start": 666,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.5191577330982222
+      },
+      {
+        "chunk_id": "a55119b978763f36a6444e78b34e14507d9c46a8fa24b3966c17747ff7ab5d97",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "2.3 Digital Business Models\nLearning Objectives\nBy the end of this section, you will be able to:\n",
+        "metadata": {
+          "end": 97,
+          "part": 1,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.39550934306238794
+      },
+      {
+        "chunk_id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "Figure 2.7 The business model is the key to bridging the gap between technological potential and business success, paving the way\nfor companies to thrive in the competitive landscape. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license;\ncredit gears: modification of work “Noun project 1063” by Jeremy Minnick/Wikimedia Commons, CC0 1.0; credit people with laptops:\nmodification of work “Noun project - Meeting with laptops” by Slava Strizh/Wikimedia Commons, CC BY 3.0; credit target:\n",
+        "metadata": {
+          "end": 1558,
+          "part": 1,
+          "year": 2025,
+          "start": 1049,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3857124217220844
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "B",
+    "applied_filter": null,
+    "retrieval_seconds": 0.047410400002263486
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Trong mục 2.3, affiliate model kiếm tiền thế nào và IT cần theo dõi điều gì để ghi nhận doanh số đúng?",
+    "expected_answer": "Hoa hồng qua quảng bá và bán sản phẩm/dịch vụ của công ty khác; theo dõi và báo cáo phải quy doanh số chính xác cho affiliate giới thiệu.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 69,
+    "printed_page": 59,
+    "section": "2.3",
+    "evidence_quote": "In an affiliate model, one company earns commissions by promoting and selling other companies’ products or services through websites or social media channels. They help drive traffic and sales, receiving a percentage of the revenue from the companies they promote. Amazon Associates, ClickBank, and Commission Junction use this model. These organizations should work with IT to build effective tracking and reporting systems to accurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for conversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform.",
+    "alternative_gold": [],
+    "filter": {
+      "section": "2.3"
+    },
+    "filter_origin": "Phạm vi mục 2.3 được nêu trong câu hỏi trước truy xuất.",
+    "hits": [
+      {
+        "chunk_id": "0693687b3a276c576c1e26a1b43c312159929fca528afd182d2a27d49c61d86f",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "text": "In an affiliate model, one company earns commissions by promoting and selling other companies’ products\nor services through websites or social media channels. They help drive traffic and sales, receiving a percentage\nof the revenue from the companies they promote. Amazon Associates, ClickBank, and Commission Junction\nuse this model. These organizations should work with IT to build effective tracking and reporting systems to\naccurately attribute sales to affiliates by implementing affiliate tracking software, optimizing landing pages for\nconversion, and ensuring a seamless user journey from the affiliate’s site to the merchant’s platform. Providing\nreal-time data and performance insights to affiliates enables them to optimize their promotional strategies.\nAmazon, eBay, and Airbnb demonstrate the marketplace model, which brings buyers and sellers together on\na single platform, with the enterprise acting as an intermediary that facilitates transactions between parties.\n",
+        "metadata": {
+          "end": 1647,
+          "part": 0,
+          "year": 2025,
+          "start": 666,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.5191577330982222
+      },
+      {
+        "chunk_id": "a55119b978763f36a6444e78b34e14507d9c46a8fa24b3966c17747ff7ab5d97",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "2.3 Digital Business Models\nLearning Objectives\nBy the end of this section, you will be able to:\n",
+        "metadata": {
+          "end": 97,
+          "part": 1,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.39550934306238794
+      },
+      {
+        "chunk_id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "text": "Figure 2.7 The business model is the key to bridging the gap between technological potential and business success, paving the way\nfor companies to thrive in the competitive landscape. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license;\ncredit gears: modification of work “Noun project 1063” by Jeremy Minnick/Wikimedia Commons, CC0 1.0; credit people with laptops:\nmodification of work “Noun project - Meeting with laptops” by Slava Strizh/Wikimedia Commons, CC BY 3.0; credit target:\n",
+        "metadata": {
+          "end": 1558,
+          "part": 1,
+          "year": 2025,
+          "start": 1049,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3857124217220844
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "C",
+    "applied_filter": {
+      "section": "2.3"
+    },
+    "retrieval_seconds": 0.027471200002764817
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Trong case Cohealo, sản phẩm nào giúp phòng khám tìm và huy động thiết bị y tế đang nhàn rỗi trên mạng lưới?",
+    "expected_answer": "Cohealo + Clinical.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 70,
+    "printed_page": 60,
+    "section": "2.3",
+    "evidence_quote": "Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical equipment across the network to support procedures wherever and whenever needed.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "3f0bce3bedac674286dec95a2c9138abe7466d97ffd5a2885e4e2573395f5c5d",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "ge medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can mak",
+        "metadata": {
+          "end": 2300,
+          "part": 0,
+          "year": 2025,
+          "start": 1800,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4783391108475771
+      },
+      {
+        "chunk_id": "0da319b09bfedf2a45d85ee4046a930a887b8eca15e10cca6c953665fb6b4a6d",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it availab",
+        "metadata": {
+          "end": 1850,
+          "part": 0,
+          "year": 2025,
+          "start": 1350,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4052278751191274
+      },
+      {
+        "chunk_id": "47d89e2d1ebcc5d7c710f6e35300485f3ee7d797b980e151615cad5e7b5e80b6",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "cross the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of C",
+        "metadata": {
+          "end": 3200,
+          "part": 0,
+          "year": 2025,
+          "start": 2700,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4026220376178822
+      }
+    ],
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "A",
+    "applied_filter": null,
+    "retrieval_seconds": 0.04066459999739891
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Trong case Cohealo, sản phẩm nào giúp phòng khám tìm và huy động thiết bị y tế đang nhàn rỗi trên mạng lưới?",
+    "expected_answer": "Cohealo + Clinical.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 70,
+    "printed_page": 60,
+    "section": "2.3",
+    "evidence_quote": "Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical equipment across the network to support procedures wherever and whenever needed.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n",
+        "metadata": {
+          "end": 3525,
+          "part": 0,
+          "year": 2025,
+          "start": 2580,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.45099820484005915
+      },
+      {
+        "chunk_id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n",
+        "metadata": {
+          "end": 2580,
+          "part": 0,
+          "year": 2025,
+          "start": 1906,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.417314494849643
+      },
+      {
+        "chunk_id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "Case Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n",
+        "metadata": {
+          "end": 1906,
+          "part": 0,
+          "year": 2025,
+          "start": 1185,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.407328412106265
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "B",
+    "applied_filter": null,
+    "retrieval_seconds": 0.03750949999812292
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Trong case Cohealo, sản phẩm nào giúp phòng khám tìm và huy động thiết bị y tế đang nhàn rỗi trên mạng lưới?",
+    "expected_answer": "Cohealo + Clinical.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 70,
+    "printed_page": 60,
+    "section": "2.3",
+    "evidence_quote": "Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical equipment across the network to support procedures wherever and whenever needed.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "3. Cohealo + Clinical: This network-based application empowers clinics to locate and enlist any idle medical\nequipment across the network to support procedures wherever and whenever needed. This manufacturer-\nagnostic design puts the choice in the hands of clinics, freeing up administrative time for patient and\nphysician care.\n4. Cohealo + Supply Chain: Cohealo streamlines equipment transportation, ensuring it reaches the required\nlocation optimally and returns to the original site after usage. The network effect, fostered by health-care\ninstitutions clustered in and around Boston, contributes to the success of Cohealo’s platform, enabling the\nemergence of disruptive business models.\nSeveral factors influence the success of the sharing economy model in the health-care sector, as observed in\nCohealo’s case12 :\n• Resource characteristics: Medical equipment, being valuable and commercial in nature, is considered\nsuitable for sharing.\n",
+        "metadata": {
+          "end": 3525,
+          "part": 0,
+          "year": 2025,
+          "start": 2580,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.45099820484005915
+      },
+      {
+        "chunk_id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "1. Cohealo + C-suite: This product functions as a comprehensive customer relationship management\nplatform, allowing hospital management to access and manage equipment-related data. The platform\noffers real-time data and usage analytics, centralized decision-making, and personalized dashboards,\nenabling clinics to optimize resource deployment effectively.\n2. Cohealo + Finance: Clinics can make data-driven capital decisions in real time with this tool, optimizing the\nutilization of their most critical technology investments. By spreading out costs and consumption, Cohealo\nenables new efficiencies, faster capital redeployment cycles, and improved return on investment.\n",
+        "metadata": {
+          "end": 2580,
+          "part": 0,
+          "year": 2025,
+          "start": 1906,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.417314494849643
+      },
+      {
+        "chunk_id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "text": "Case Study: Transforming Health Care Through the Sharing Economy Model\nThe U.S. health-care industry faces a substantial inefficiency issue, with a large portion of capital expenditure\ngoing toward medical equipment that remains underutilized. Boston-based Cohealo recognized the potential\nof the sharing economy model to address these inefficiencies and created a platform that facilitates the\nseamless sharing of medical equipment across different facilities. Cohealo operates as a cloud-based platform\nsupporting logistic capabilities and as an analytics-enabled information system that enables customers to\nmanage medical equipment centrally and make it available on demand. Cohealo’s products include the\nfollowing:\n",
+        "metadata": {
+          "end": 1906,
+          "part": 0,
+          "year": 2025,
+          "start": 1185,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.407328412106265
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "C",
+    "applied_filter": null,
+    "retrieval_seconds": 0.013282300002174452
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Khi người lao động có điểm uy tín cao và nhiều kinh nghiệm nhận thêm việc trên gig platform, nhóm điểm thấp và ít kinh nghiệm chịu hệ quả gì?",
+    "expected_answer": "Cơ hội bị phân phối không đều, gây bất lợi cho nhóm điểm thấp và ít kinh nghiệm; hiệu ứng người giàu càng giàu.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 71,
+    "printed_page": 61,
+    "section": "2.3",
+    "evidence_quote": "Unequal distribution of opportunities: Research has shed light on a concerning phenomenon observed in gig work platforms—the “rich get richer” effect. Workers with higher reputation scores and greater experience tend to receive more work, as clients prefer to engage with those perceived as more reliable. Consequently, this phenomenon results in an unequal distribution of opportunities, disadvantaging workers with lower scores and less experience.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "6715a16b384bdac36658390a7a71a77910c8b258490f9c359eb85495655a4175",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "the “rich get richer” effect. Workers with higher reputation scores and greater\nexperience tend to receive more work, as clients prefer to engage with those perceived as more reliable.\nConsequently, this phenomenon results in an unequal distribution of opportunities, disadvantaging\nworkers with lower scores and less experience.\n• System of control: Algorithmic systems, though designed to foster trust, inadvertently create a “system of\ncontrol.” By standardizing metrics and homogenizing worker id",
+        "metadata": {
+          "end": 1850,
+          "part": 0,
+          "year": 2025,
+          "start": 1350,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.42492996898690516
+      },
+      {
+        "chunk_id": "80d8eceb9018c6d46460964f6ba74759c0ab992a303025b3416be08b9e6baea3",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "reputation features play a central role in fostering trust and accountability. These reputation\nsystems, based on customer feedback and ratings, have been hailed as a valuable trust mechanism resulting\nin efficient matches for a distributed workforce. Some criticism and challenges faced by digital business\nmodels include14 :\n• Unequal distribution of opportunities: Research has shed light on a concerning phenomenon observed in\ngig work platforms—the “rich get richer” effect. Workers with higher ",
+        "metadata": {
+          "end": 1400,
+          "part": 0,
+          "year": 2025,
+          "start": 900,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3891767606340131
+      },
+      {
+        "chunk_id": "9feedb86c35fa43097958a6cb6958709a367b929568bfb34d7e1cce356e8db2e",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "y standardizing metrics and homogenizing worker identities, platforms such as Uber or\nDoorDash wield significant power. Platforms can manipulate scoring and matching algorithms to influence\njob allocation decisions without involving the people using their platforms.\n• Opacity and lack of transparency: One of the most troubling aspects of algorithmic digital systems is their\nopacity. Proprietary algorithms protected by trade secrecy laws prevent external scrutiny, leaving users in\nthe dark about ",
+        "metadata": {
+          "end": 2300,
+          "part": 0,
+          "year": 2025,
+          "start": 1800,
+          "method": "fixed-500-50",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.38571333144710385
+      }
+    ],
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "A",
+    "applied_filter": null,
+    "retrieval_seconds": 0.05806719999964116
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Khi người lao động có điểm uy tín cao và nhiều kinh nghiệm nhận thêm việc trên gig platform, nhóm điểm thấp và ít kinh nghiệm chịu hệ quả gì?",
+    "expected_answer": "Cơ hội bị phân phối không đều, gây bất lợi cho nhóm điểm thấp và ít kinh nghiệm; hiệu ứng người giàu càng giàu.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 71,
+    "printed_page": 61,
+    "section": "2.3",
+    "evidence_quote": "Unequal distribution of opportunities: Research has shed light on a concerning phenomenon observed in gig work platforms—the “rich get richer” effect. Workers with higher reputation scores and greater experience tend to receive more work, as clients prefer to engage with those perceived as more reliable. Consequently, this phenomenon results in an unequal distribution of opportunities, disadvantaging workers with lower scores and less experience.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "2dac6c5d6f65eecb2e4b2cbc87135446d9d8f7e40c5d3271ac289447ac9ea12d",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "• Unequal distribution of opportunities: Research has shed light on a concerning phenomenon observed in\ngig work platforms—the “rich get richer” effect. Workers with higher reputation scores and greater\nexperience tend to receive more work, as clients prefer to engage with those perceived as more reliable.\nConsequently, this phenomenon results in an unequal distribution of opportunities, disadvantaging\nworkers with lower scores and less experience.\n• System of control: Algorithmic systems, though designed to foster trust, inadvertently create a “system of\ncontrol.” By standardizing metrics and homogenizing worker identities, platforms such as Uber or\nDoorDash wield significant power. Platforms can manipulate scoring and matching algorithms to influence\njob allocation decisions without involving the people using their platforms.\n",
+        "metadata": {
+          "end": 2067,
+          "part": 0,
+          "year": 2025,
+          "start": 1227,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4892217314585732
+      },
+      {
+        "chunk_id": "0aa254b1c743b0818053e7d6afa5b44bd85e6c7aae8cbf0add08493f232c9de9",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "• Opacity and lack of transparency: One of the most troubling aspects of algorithmic digital systems is their\nopacity. Proprietary algorithms protected by trade secrecy laws prevent external scrutiny, leaving users in\nthe dark about the factors influencing their reputation scores or how changes to algorithms may impact\ntheir job opportunities. In digital platforms such as Upwork, there is electronic monitoring of user actions\nthat affects their perceived autonomy.15\nETHICS IN IS\nIBM’s Artificial Intelligence Ethics Initiatives\nIBM provides a notable example of IS ethics in AI decision-making. IBM has been actively working on ethical\nAI initiatives, emphasizing fairness, transparency, and accountability in algorithmic decision-making across\nvarious domains such as hiring, lending, and law enforcement. IBM’s approach involves developing AI\nsystems that mitigate biases, ensuring inclusivity, and safeguarding privacy through responsible data\npractices. Their efforts include implementing ",
+        "metadata": {
+          "end": 3065,
+          "part": 0,
+          "year": 2025,
+          "start": 2067,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.27567342083311996
+      },
+      {
+        "chunk_id": "b99a899c8d2fd86887dfa77a8850c95f526b8556871d4b6750ceef5e646ba532",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "ethical AI frameworks, promoting diverse datasets, and\nadvocating for AI transparency and explainability to address societal concerns regarding algorithmic\nfairness and discrimination.16\n13 Vijaya Sunder M and Sowmya Shashidhara, “Next Step in Healthcare: Sharing Economy to Overcome Resource Crisis,” Forbes\nIndia, October 8, 2021, https://www.forbesindia.com/article/isbinsight/next-step-in-healthcare-sharing-economy-to-overcome-\nresource-crisis/70893/1\n14 Zhi Ming Tan, Nikita Aggarwal, Josh Cowls, Jessica Morley, Mariarosaria Taddeo, and Luciano Floridi, “The Ethical Debate About\nthe Gig Economy: A Review and Critical Analysis,” Technology in Society 65 (May 2021): 101594, https://doi.org/10.1016/\nj.techsoc.2021.101594\n15 Kristine M. Kuhn and Amir Maleki, “Micro-Entrepreneurs, Dependent Contractors, and Instaserfs: Understanding Online Labor\nPlatform Workforces,” Academy of Management Perspectives 31, no. 3 (2017): 183–200, https://doi.org/10.5465/amp.2015.0111\n16 “What Is AI Ethics,” ",
+        "metadata": {
+          "end": 4065,
+          "part": 0,
+          "year": 2025,
+          "start": 3065,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.27292978465207396
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "B",
+    "applied_filter": null,
+    "retrieval_seconds": 0.11040140000113752
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Khi người lao động có điểm uy tín cao và nhiều kinh nghiệm nhận thêm việc trên gig platform, nhóm điểm thấp và ít kinh nghiệm chịu hệ quả gì?",
+    "expected_answer": "Cơ hội bị phân phối không đều, gây bất lợi cho nhóm điểm thấp và ít kinh nghiệm; hiệu ứng người giàu càng giàu.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 71,
+    "printed_page": 61,
+    "section": "2.3",
+    "evidence_quote": "Unequal distribution of opportunities: Research has shed light on a concerning phenomenon observed in gig work platforms—the “rich get richer” effect. Workers with higher reputation scores and greater experience tend to receive more work, as clients prefer to engage with those perceived as more reliable. Consequently, this phenomenon results in an unequal distribution of opportunities, disadvantaging workers with lower scores and less experience.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null,
+    "hits": [
+      {
+        "chunk_id": "2dac6c5d6f65eecb2e4b2cbc87135446d9d8f7e40c5d3271ac289447ac9ea12d",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "• Unequal distribution of opportunities: Research has shed light on a concerning phenomenon observed in\ngig work platforms—the “rich get richer” effect. Workers with higher reputation scores and greater\nexperience tend to receive more work, as clients prefer to engage with those perceived as more reliable.\nConsequently, this phenomenon results in an unequal distribution of opportunities, disadvantaging\nworkers with lower scores and less experience.\n• System of control: Algorithmic systems, though designed to foster trust, inadvertently create a “system of\ncontrol.” By standardizing metrics and homogenizing worker identities, platforms such as Uber or\nDoorDash wield significant power. Platforms can manipulate scoring and matching algorithms to influence\njob allocation decisions without involving the people using their platforms.\n",
+        "metadata": {
+          "end": 2067,
+          "part": 0,
+          "year": 2025,
+          "start": 1227,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4892217314585732
+      },
+      {
+        "chunk_id": "0aa254b1c743b0818053e7d6afa5b44bd85e6c7aae8cbf0add08493f232c9de9",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "• Opacity and lack of transparency: One of the most troubling aspects of algorithmic digital systems is their\nopacity. Proprietary algorithms protected by trade secrecy laws prevent external scrutiny, leaving users in\nthe dark about the factors influencing their reputation scores or how changes to algorithms may impact\ntheir job opportunities. In digital platforms such as Upwork, there is electronic monitoring of user actions\nthat affects their perceived autonomy.15\nETHICS IN IS\nIBM’s Artificial Intelligence Ethics Initiatives\nIBM provides a notable example of IS ethics in AI decision-making. IBM has been actively working on ethical\nAI initiatives, emphasizing fairness, transparency, and accountability in algorithmic decision-making across\nvarious domains such as hiring, lending, and law enforcement. IBM’s approach involves developing AI\nsystems that mitigate biases, ensuring inclusivity, and safeguarding privacy through responsible data\npractices. Their efforts include implementing ",
+        "metadata": {
+          "end": 3065,
+          "part": 0,
+          "year": 2025,
+          "start": 2067,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.27567342083311996
+      },
+      {
+        "chunk_id": "b99a899c8d2fd86887dfa77a8850c95f526b8556871d4b6750ceef5e646ba532",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "text": "ethical AI frameworks, promoting diverse datasets, and\nadvocating for AI transparency and explainability to address societal concerns regarding algorithmic\nfairness and discrimination.16\n13 Vijaya Sunder M and Sowmya Shashidhara, “Next Step in Healthcare: Sharing Economy to Overcome Resource Crisis,” Forbes\nIndia, October 8, 2021, https://www.forbesindia.com/article/isbinsight/next-step-in-healthcare-sharing-economy-to-overcome-\nresource-crisis/70893/1\n14 Zhi Ming Tan, Nikita Aggarwal, Josh Cowls, Jessica Morley, Mariarosaria Taddeo, and Luciano Floridi, “The Ethical Debate About\nthe Gig Economy: A Review and Critical Analysis,” Technology in Society 65 (May 2021): 101594, https://doi.org/10.1016/\nj.techsoc.2021.101594\n15 Kristine M. Kuhn and Amir Maleki, “Micro-Entrepreneurs, Dependent Contractors, and Instaserfs: Understanding Online Labor\nPlatform Workforces,” Academy of Management Perspectives 31, no. 3 (2017): 183–200, https://doi.org/10.5465/amp.2015.0111\n16 “What Is AI Ethics,” ",
+        "metadata": {
+          "end": 4065,
+          "part": 0,
+          "year": 2025,
+          "start": 3065,
+          "method": "paragraph-1000",
+          "section": "2.3",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.27292978465207396
+      }
+    ],
+    "evidence_matches": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "C",
+    "applied_filter": null,
+    "retrieval_seconds": 0.07919979999860516
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong mục 2.4, ba thành phần thiết yếu của business process là gì và có vai trò nào?",
+    "expected_answer": "Inputs: vật liệu, dịch vụ, thông tin được biến đổi; resources: con người và nguồn lực thực hiện hoạt động; outputs: sản phẩm/dịch vụ cuối cùng sẵn sàng giao cho người nhận.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 72,
+    "printed_page": 62,
+    "section": "2.4",
+    "evidence_quote": "This process relies on three essential components: • Inputs: These encompass the materials, services, and information that flow through the process and undergo transformations as a consequence of the activities within the process. • Resources: People and other resources form the backbone of process activities, performing various tasks to facilitate the progression of the process. • Outputs: Outputs are the ultimate result of the process, ending in the creation of a specific product or service that is ready to be delivered to the intended recipient.",
+    "alternative_gold": [],
+    "filter": {
+      "section": "2.4"
+    },
+    "filter_origin": "Phạm vi mục 2.4 được nêu trong câu hỏi trước truy xuất.",
+    "hits": [
+      {
+        "chunk_id": "860376338c639d0d6cc67cbf180636b1e10b3a655c710b69ffb81cce7cd52ed8",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "2.4 Business Process Management\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe a business process\n• Differentiate business process reengineering, improvement, and management\n• Discuss ways in which information systems enable business processes\nTo promote success, businesses and other organizations need robust business processes that are well\nmanaged. Business processes help organizations be more efficient and effective—providing higher-quality\nproducts and servic",
+        "metadata": {
+          "end": 500,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "fixed-500-50",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.5205841305625565
+      },
+      {
+        "chunk_id": "638a7e54f31fc1adb7ad4d268a6b42f8d4df9916d21193f01b9021e0fd15d516",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "ctive—providing higher-quality\nproducts and services, and improving customer service and satisfaction. Business processes can be tailored to\nmeet an organization’s specific needs, and information systems can be important tools to enhance business\nprocesses.\nBusiness Process\nA business process represents a continuous series of interconnected activities aimed at producing a valuable\nproduct or service for an organization, its business partners, and its customers. This process relies on three\nessen",
+        "metadata": {
+          "end": 950,
+          "part": 0,
+          "year": 2025,
+          "start": 450,
+          "method": "fixed-500-50",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.4620594090290582
+      },
+      {
+        "chunk_id": "e858a9cc46e8ba2ac6277ccef09ccae9b507caf7e1482e00878d7a2bdb29b330",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": " its customers. This process relies on three\nessential components:\n• Inputs: These encompass the materials, services, and information that flow through the process and\nundergo transformations as a consequence of the activities within the process.\n• Resources: People and other resources form the backbone of process activities, performing various tasks\nto facilitate the progression of the process.\n• Outputs: Outputs are the ultimate result of the process, ending in the creation of a specific produ",
+        "metadata": {
+          "end": 1400,
+          "part": 0,
+          "year": 2025,
+          "start": 900,
+          "method": "fixed-500-50",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.41829911868364067
+      }
+    ],
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "A",
+    "applied_filter": null,
+    "retrieval_seconds": 0.04670500000065658
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong mục 2.4, ba thành phần thiết yếu của business process là gì và có vai trò nào?",
+    "expected_answer": "Inputs: vật liệu, dịch vụ, thông tin được biến đổi; resources: con người và nguồn lực thực hiện hoạt động; outputs: sản phẩm/dịch vụ cuối cùng sẵn sàng giao cho người nhận.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 72,
+    "printed_page": 62,
+    "section": "2.4",
+    "evidence_quote": "This process relies on three essential components: • Inputs: These encompass the materials, services, and information that flow through the process and undergo transformations as a consequence of the activities within the process. • Resources: People and other resources form the backbone of process activities, performing various tasks to facilitate the progression of the process. • Outputs: Outputs are the ultimate result of the process, ending in the creation of a specific product or service that is ready to be delivered to the intended recipient.",
+    "alternative_gold": [],
+    "filter": {
+      "section": "2.4"
+    },
+    "filter_origin": "Phạm vi mục 2.4 được nêu trong câu hỏi trước truy xuất.",
+    "hits": [
+      {
+        "chunk_id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "2.4 Business Process Management\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe a business process\n• Differentiate business process reengineering, improvement, and management\n• Discuss ways in which information systems enable business processes\nTo promote success, businesses and other organizations need robust business processes that are well\nmanaged. Business processes help organizations be more efficient and effective—providing higher-quality\nproducts and services, and improving customer service and satisfaction. Business processes can be tailored to\nmeet an organization’s specific needs, and information systems can be important tools to enhance business\nprocesses.\nBusiness Process\nA business process represents a continuous series of interconnected activities aimed at producing a valuable\nproduct or service for an organization, its business partners, and its customers. This process relies on three\nessential components:\n",
+        "metadata": {
+          "end": 967,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.5220674630683095
+      },
+      {
+        "chunk_id": "bb0470f7b1da6d8bc76b553afba1553aef251b3e287034465374c53ead89abe3",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "• Inputs: These encompass the materials, services, and information that flow through the process and\nundergo transformations as a consequence of the activities within the process.\n• Resources: People and other resources form the backbone of process activities, performing various tasks\nto facilitate the progression of the process.\n• Outputs: Outputs are the ultimate result of the process, ending in the creation of a specific product or\nservice that is ready to be delivered to the intended recipient.\n",
+        "metadata": {
+          "end": 1471,
+          "part": 0,
+          "year": 2025,
+          "start": 967,
+          "method": "paragraph-1000",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3963670896968312
+      },
+      {
+        "chunk_id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "text": "organizations.\nStrategies to Improve the Value of Information Technology for\nOrganizations\nUnderstanding the role of business processes within an organization is vital to measuring the specific value\nthat IT can deliver and the mechanisms through which it achieves this. Information systems professionals\nknow that technology alone is not the sole determinant of digital success, and that strategy is an important\ncatalyst in the digital domain. Business-IT alignment, or strategic alignment, refers to the strong integration of\nthe IT function with an organization’s strategy, mission, and objectives. This simply means that IT directly\nsupports the business goals of the organization. Successful alignment exhibits six key characteristics (Figure\n2.6):\n• Organizations consider IT to be a driver of innovation that continuously transforms the business, leading\nto new revenue opportunities.\n",
+        "metadata": {
+          "end": 1881,
+          "part": 0,
+          "year": 2025,
+          "start": 988,
+          "method": "paragraph-1000",
+          "section": "2.2",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3795563128102264
+      }
+    ],
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "B",
+    "applied_filter": null,
+    "retrieval_seconds": 0.038202399999136105
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong mục 2.4, ba thành phần thiết yếu của business process là gì và có vai trò nào?",
+    "expected_answer": "Inputs: vật liệu, dịch vụ, thông tin được biến đổi; resources: con người và nguồn lực thực hiện hoạt động; outputs: sản phẩm/dịch vụ cuối cùng sẵn sàng giao cho người nhận.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 72,
+    "printed_page": 62,
+    "section": "2.4",
+    "evidence_quote": "This process relies on three essential components: • Inputs: These encompass the materials, services, and information that flow through the process and undergo transformations as a consequence of the activities within the process. • Resources: People and other resources form the backbone of process activities, performing various tasks to facilitate the progression of the process. • Outputs: Outputs are the ultimate result of the process, ending in the creation of a specific product or service that is ready to be delivered to the intended recipient.",
+    "alternative_gold": [],
+    "filter": {
+      "section": "2.4"
+    },
+    "filter_origin": "Phạm vi mục 2.4 được nêu trong câu hỏi trước truy xuất.",
+    "hits": [
+      {
+        "chunk_id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "2.4 Business Process Management\nLearning Objectives\nBy the end of this section, you will be able to:\n• Describe a business process\n• Differentiate business process reengineering, improvement, and management\n• Discuss ways in which information systems enable business processes\nTo promote success, businesses and other organizations need robust business processes that are well\nmanaged. Business processes help organizations be more efficient and effective—providing higher-quality\nproducts and services, and improving customer service and satisfaction. Business processes can be tailored to\nmeet an organization’s specific needs, and information systems can be important tools to enhance business\nprocesses.\nBusiness Process\nA business process represents a continuous series of interconnected activities aimed at producing a valuable\nproduct or service for an organization, its business partners, and its customers. This process relies on three\nessential components:\n",
+        "metadata": {
+          "end": 967,
+          "part": 0,
+          "year": 2025,
+          "start": 0,
+          "method": "paragraph-1000",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.5220674630683095
+      },
+      {
+        "chunk_id": "bb0470f7b1da6d8bc76b553afba1553aef251b3e287034465374c53ead89abe3",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "• Inputs: These encompass the materials, services, and information that flow through the process and\nundergo transformations as a consequence of the activities within the process.\n• Resources: People and other resources form the backbone of process activities, performing various tasks\nto facilitate the progression of the process.\n• Outputs: Outputs are the ultimate result of the process, ending in the creation of a specific product or\nservice that is ready to be delivered to the intended recipient.\n",
+        "metadata": {
+          "end": 1471,
+          "part": 0,
+          "year": 2025,
+          "start": 967,
+          "method": "paragraph-1000",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3963670896968312
+      },
+      {
+        "chunk_id": "ea92b2e767bff6bc6ca3aaeb64dabca5c1a56296f78edf1b771802bbd01d9566",
+        "document_id": "foundations-of-information-systems",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "text": "Consider the design of an information system for booking a COVID-19/flu/RSV test online. As shown in Figure\n2.8, this business process includes procedures such as user registration, test availability search, appointment\nbooking, secure payment, test result reporting, and verification. The information system may prioritize data\nprivacy and offer reliable customer support to enhance user experience. Regular updates and maintenance\nensure efficiency and compliance with evolving guidelines. In general, efficient and well-designed business\nprocesses are crucial for gaining a competitive advantage and ensuring organizational success. Such\nprocesses must enable the information system to function innovatively and with enhanced effectiveness and\nefficiency compared to its competitors. Conversely, poorly designed processes could become liabilities,\nhindering the information system’s responsiveness and productivity.\n",
+        "metadata": {
+          "end": 2390,
+          "part": 0,
+          "year": 2025,
+          "start": 1471,
+          "method": "paragraph-1000",
+          "section": "2.4",
+          "language": "en",
+          "attribution": "Access for free at openstax.org."
+        },
+        "score": 0.3194922210999661
+      }
+    ],
+    "evidence_matches": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "scoring": "literal; equivalent evidence needs human audit",
+    "strategy": "C",
+    "applied_filter": {
+      "section": "2.4"
+    },
+    "retrieval_seconds": 0.0148436999952537
+  }
+]

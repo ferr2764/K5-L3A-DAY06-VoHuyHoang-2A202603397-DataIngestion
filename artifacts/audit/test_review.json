@@ -1,0 +1,662 @@
+[
+  {
+    "id": "q16",
+    "strategy": "A",
+    "grounding_0_2": 2,
+    "reason": "Top-1 có định nghĩa freemium đầy đủ, đúng trường hợp miễn phí rồi nâng cấp.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "fca4e04107b5161ed8daea3d200e00dcf42df8fe733fb56b98395676b0bf0a5a",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "d05274fda7d53be4facc5e856416c3199e1bbf2e2f7b6afc96bea9e112c48229",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "395d981bc532a846db906942f7086e7a45cfe834a6b19ce76857bfcda6ec5116",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q16",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "reason": "Top-1 giữ trọn định nghĩa freemium và điều kiện nâng cấp.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "822190af9e803e0694b74bba57378cdff2f7f9f77dd12c660f7ad416dc97a442",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "bf9a54938c247718430c6beaf0cdfadb03e423cb0bab25bd5c3fd8720597e939",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "a205c17755ad789f92cc8291b24fb07896c3dff14fe678580ca69a198eb2b3cb",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q16",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "reason": "Top-1 giữ trọn định nghĩa freemium và điều kiện nâng cấp.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "822190af9e803e0694b74bba57378cdff2f7f9f77dd12c660f7ad416dc97a442",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "bf9a54938c247718430c6beaf0cdfadb03e423cb0bab25bd5c3fd8720597e939",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "a205c17755ad789f92cc8291b24fb07896c3dff14fe678580ca69a198eb2b3cb",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q17",
+    "strategy": "A",
+    "grounding_0_2": 2,
+    "reason": "Top-3 ghép lại có cách kiếm hoa hồng ở rank 3 và tracking sales ở rank 1; grounding đủ dù không có một chunk chứa toàn bộ gold.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "d043f38a30077c595c32bd1984751a0fbae19c5be87bb6664cbf47483fca4180",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "995232a0f774668d38f37f50c60e52cec1166ab0fcae89cfb0eecd4a332e5f95",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3134a92d4065546485d902a8ac7638d6082d80e5f8ddedde6bb1b9db72a12107",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": true,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q17",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "reason": "Top-1 có cả hoa hồng và tracking/reporting quy doanh số cho affiliate.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "0693687b3a276c576c1e26a1b43c312159929fca528afd182d2a27d49c61d86f",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "a55119b978763f36a6444e78b34e14507d9c46a8fa24b3966c17747ff7ab5d97",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": true,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q17",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "reason": "Top-1 có cả hoa hồng và tracking/reporting quy doanh số cho affiliate.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "0693687b3a276c576c1e26a1b43c312159929fca528afd182d2a27d49c61d86f",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 69,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "a55119b978763f36a6444e78b34e14507d9c46a8fa24b3966c17747ff7ab5d97",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "a8ed8ab3ca7ac7b420c8d7d50e5058b5bbaf1514b021e20008085d375bd85f99",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 68,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": true,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q18",
+    "strategy": "A",
+    "grounding_0_2": 1,
+    "reason": "Đúng case Cohealo nhưng thiếu tên Cohealo + Clinical và đoạn đầu chức năng tương ứng; không đủ xác định sản phẩm.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "3f0bce3bedac674286dec95a2c9138abe7466d97ffd5a2885e4e2573395f5c5d",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "0da319b09bfedf2a45d85ee4046a930a887b8eca15e10cca6c953665fb6b4a6d",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "47d89e2d1ebcc5d7c710f6e35300485f3ee7d797b980e151615cad5e7b5e80b6",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q18",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "reason": "Top-1 nêu rõ Cohealo + Clinical và khả năng huy động thiết bị nhàn rỗi.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q18",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "reason": "Top-1 nêu rõ Cohealo + Clinical và khả năng huy động thiết bị nhàn rỗi.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "e3ce2572df62a3883b583ded122c4fc18436a9990256b34dd40cd5031c1bd394",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "8c6157ab84de4f34dafaaf11667e977feac108cdef2f13f5c93be26f79164c77",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "2b3b80f75eef30f3a5a29ccf5c067ef85d0469c451ac412d6dc079f332ab5df0",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 70,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q19",
+    "strategy": "A",
+    "grounding_0_2": 2,
+    "reason": "Top-1 có điều kiện uy tín/kinh nghiệm và hệ quả bất lợi cho nhóm điểm thấp, dù thiếu câu dẫn của gold.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "6715a16b384bdac36658390a7a71a77910c8b258490f9c359eb85495655a4175",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "80d8eceb9018c6d46460964f6ba74759c0ab992a303025b3416be08b9e6baea3",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "9feedb86c35fa43097958a6cb6958709a367b929568bfb34d7e1cce356e8db2e",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q19",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "reason": "Top-1 có cả điều kiện và hệ quả phân phối cơ hội không đều.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "2dac6c5d6f65eecb2e4b2cbc87135446d9d8f7e40c5d3271ac289447ac9ea12d",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "0aa254b1c743b0818053e7d6afa5b44bd85e6c7aae8cbf0add08493f232c9de9",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "b99a899c8d2fd86887dfa77a8850c95f526b8556871d4b6750ceef5e646ba532",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q19",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "reason": "Top-1 có cả điều kiện và hệ quả phân phối cơ hội không đều.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "2dac6c5d6f65eecb2e4b2cbc87135446d9d8f7e40c5d3271ac289447ac9ea12d",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "0aa254b1c743b0818053e7d6afa5b44bd85e6c7aae8cbf0add08493f232c9de9",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "b99a899c8d2fd86887dfa77a8850c95f526b8556871d4b6750ceef5e646ba532",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 71,
+        "section": "2.3",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": null,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q20",
+    "strategy": "A",
+    "grounding_0_2": 1,
+    "reason": "Có inputs/resources nhưng định nghĩa outputs bị cắt, thiếu sản phẩm/dịch vụ sẵn sàng giao cho người nhận.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "860376338c639d0d6cc67cbf180636b1e10b3a655c710b69ffb81cce7cd52ed8",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "638a7e54f31fc1adb7ad4d268a6b42f8d4df9916d21193f01b9021e0fd15d516",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "e858a9cc46e8ba2ac6277ccef09ccae9b507caf7e1482e00878d7a2bdb29b330",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": true,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q20",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "reason": "Rank 2 có đủ định nghĩa inputs/resources/outputs; rank 1 cung cấp tên quy trình và câu dẫn. Grounding xét top-3 nên đủ.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "bb0470f7b1da6d8bc76b553afba1553aef251b3e287034465374c53ead89abe3",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "e0b444745f73d6c9c95911e907022404d0b3d9bda28bcc337c81733babc0c67a",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 65,
+        "section": "2.2",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": false,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  },
+  {
+    "id": "q20",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "reason": "Rank 2 có đủ định nghĩa inputs/resources/outputs; rank 1 cung cấp tên quy trình và câu dẫn. Grounding xét top-3 nên đủ.",
+    "metadata_audit": [
+      {
+        "rank": 1,
+        "chunk_id": "53d2cfe1575800d5e0039b087ae63370ef852bd15d3b242b6bd321df112837a5",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "bb0470f7b1da6d8bc76b553afba1553aef251b3e287034465374c53ead89abe3",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "ea92b2e767bff6bc6ca3aaeb64dabca5c1a56296f78edf1b771802bbd01d9566",
+        "source": "starter/data/Foundations_of_Information_Systems.pdf",
+        "page": 72,
+        "section": "2.4",
+        "correct_and_complete": true,
+        "reason": "Đối chiếu text trên trang PDF vật lý và heading mục 2.2/2.3/2.4; source/path/document ID khớp manifest."
+      }
+    ],
+    "filter_compliance": true,
+    "label_provenance": {
+      "reviewer": "Codex (AI assistant)",
+      "method": "Read displayed chunks and top-3 traces; compare with PDF text, gold and rubric; explicit reasons below. Not a human or independent blinded review.",
+      "human_confirmation": "confirmed",
+      "confirmed_by": "Võ Huy Hoàng",
+      "confirmation_date": "2026-11-13",
+      "bias_risk": "Same assistant supported benchmark/code/report and reviewed outputs after seeing retrieval scores."
+    }
+  }
+]

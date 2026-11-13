@@ -1,0 +1,8 @@
+{
+  "dev_run": "20261113T110230648138Z",
+  "test_run": "20261113T114712057039Z",
+  "benchmark_sha256_equal": true,
+  "model_equal": true,
+  "chunks_A_B_C_byte_identical": true,
+  "note": "Checked after test against saved dev inputs; no claim that this verification file existed before test."
+}

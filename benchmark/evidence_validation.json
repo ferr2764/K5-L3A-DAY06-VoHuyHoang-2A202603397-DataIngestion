@@ -1,0 +1,142 @@
+{
+  "source_path": "starter/data/Foundations_of_Information_Systems.pdf",
+  "source_sha256": "496dd5f206da66e0334514df9c22a22fa58267851c349619f35c2d3aeba69306",
+  "report_sha256": "6936c4b3aa574675e88c67fa4b6c4d4939acf9f29a50877c340a2ff3b22b4892",
+  "normalization": "Unicode NFC, collapse whitespace; preserve case and punctuation.",
+  "page_convention": "Physical PDF pages, 1-based; selected range 30-72 inclusive.",
+  "checks": [
+    {
+      "id": "q01",
+      "gold_page": 30,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q02",
+      "gold_page": 30,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q03",
+      "gold_page": 31,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q04",
+      "gold_page": 32,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q05",
+      "gold_page": 32,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q06",
+      "gold_page": 33,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q07",
+      "gold_page": 34,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q08",
+      "gold_page": 36,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q09",
+      "gold_page": 55,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q10",
+      "gold_page": 56,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q11",
+      "gold_page": 56,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q12",
+      "gold_page": 56,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q13",
+      "gold_page": 57,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q14",
+      "gold_page": 57,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q15",
+      "gold_page": 58,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q16",
+      "gold_page": 68,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q17",
+      "gold_page": 69,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q18",
+      "gold_page": 70,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q19",
+      "gold_page": 71,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q20",
+      "gold_page": 72,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q21",
+      "gold_page": 69,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    },
+    {
+      "id": "q22",
+      "gold_page": 71,
+      "normalized_evidence_found": true,
+      "literal_alternative_pages": []
+    }
+  ],
+  "scope": "Evidence existence only; no retrieval experiment or grounding labels."
+}

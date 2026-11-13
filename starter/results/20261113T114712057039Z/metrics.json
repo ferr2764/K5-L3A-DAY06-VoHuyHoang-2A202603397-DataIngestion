@@ -1,0 +1,29 @@
+[
+  {
+    "strategy": "A",
+    "split": "test",
+    "total": 5,
+    "hit_at_1_n": 1,
+    "hit_at_3_n": 1,
+    "hit_at_1": 0.2,
+    "hit_at_3": 0.2
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "total": 5,
+    "hit_at_1_n": 4,
+    "hit_at_3_n": 4,
+    "hit_at_1": 0.8,
+    "hit_at_3": 0.8
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "total": 5,
+    "hit_at_1_n": 4,
+    "hit_at_3_n": 4,
+    "hit_at_1": 0.8,
+    "hit_at_3": 0.8
+  }
+]

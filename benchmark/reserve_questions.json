@@ -1,0 +1,30 @@
+[
+  {
+    "id": "q21",
+    "split": "reserve",
+    "question": "Marketplace model đóng vai trò gì giữa người mua và người bán?",
+    "expected_answer": "Tập hợp hai bên trên một nền tảng; doanh nghiệp làm trung gian hỗ trợ giao dịch.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 69,
+    "printed_page": 59,
+    "section": "2.3",
+    "evidence_quote": "Amazon, eBay, and Airbnb demonstrate the marketplace model, which brings buyers and sellers together on a single platform, with the enterprise acting as an intermediary that facilitates transactions between parties.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null
+  },
+  {
+    "id": "q22",
+    "split": "reserve",
+    "question": "Vì sao thuật toán độc quyền làm người dùng khó hiểu điểm uy tín và cơ hội việc làm?",
+    "expected_answer": "Bí mật thương mại ngăn kiểm tra bên ngoài, khiến người dùng không biết yếu tố ảnh hưởng điểm và tác động của thay đổi thuật toán.",
+    "gold_source_id": "foundations-of-information-systems",
+    "gold_page": 71,
+    "printed_page": 61,
+    "section": "2.3",
+    "evidence_quote": "Proprietary algorithms protected by trade secrecy laws prevent external scrutiny, leaving users in the dark about the factors influencing their reputation scores or how changes to algorithms may impact their job opportunities.",
+    "alternative_gold": [],
+    "filter": null,
+    "filter_origin": null
+  }
+]

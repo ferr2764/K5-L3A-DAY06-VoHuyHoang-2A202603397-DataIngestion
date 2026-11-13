@@ -1,0 +1,36 @@
+{
+  "content_pages": 34,
+  "statistics": {
+    "A": {
+      "chunk_count": 270,
+      "characters": 125855,
+      "min": 51,
+      "max": 500,
+      "mean": 466.1296296296296
+    },
+    "B": {
+      "chunk_count": 162,
+      "characters": 114255,
+      "min": 41,
+      "max": 1000,
+      "mean": 705.2777777777778
+    },
+    "C": {
+      "chunk_count": 162,
+      "characters": 114255,
+      "min": 41,
+      "max": 1000,
+      "mean": 705.2777777777778
+    }
+  },
+  "A": {
+    "size": 500,
+    "overlap": 50
+  },
+  "B": {
+    "max_size": 1000
+  },
+  "C": "B plus supplied filter only",
+  "section_mapping": "corpus-specific headings; mixed pages split",
+  "paragraph_rule": "PDF blank lines and sentence-ending line breaks; oversized blocks split at spaces"
+}
